@@ -1,0 +1,84 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2859",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Infinity Greg",
+  "version": "1.12.2",
+  "author": "HAPPY_HIKUUU",
+  "files": [
+    {
+      "projectID": 238222,
+      "fileID": 4538010,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3359843,
+      "required": true
+    },
+    {
+      "projectID": 242818,
+      "fileID": 2779848,
+      "required": true
+    },
+    {
+      "projectID": 557242,
+      "fileID": 4799055,
+      "required": true
+    },
+    {
+      "projectID": 293327,
+      "fileID": 3478805,
+      "required": true
+    },
+    {
+      "projectID": 223794,
+      "fileID": 2747063,
+      "required": true
+    },
+    {
+      "projectID": 437335,
+      "fileID": 3404216,
+      "required": true
+    },
+    {
+      "projectID": 237167,
+      "fileID": 2985811,
+      "required": true
+    },
+    {
+      "projectID": 309674,
+      "fileID": 3003364,
+      "required": true
+    },
+    {
+      "projectID": 289412,
+      "fileID": 3156637,
+      "required": true
+    },
+    {
+      "projectID": 419286,
+      "fileID": 4752579,
+      "required": true
+    },
+    {
+      "projectID": 604054,
+      "fileID": 4753960,
+      "required": true
+    },
+    {
+      "projectID": 239197,
+      "fileID": 4814073,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
