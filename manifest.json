@@ -1,0 +1,18 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2860",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Minecraft 1.12.2 with Forge",
+  "version": "1.12.2",
+  "author": "ThatUkeKid",
+  "files": [],
+  "overrides": "overrides"
+}
